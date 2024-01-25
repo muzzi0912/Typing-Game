@@ -1,6 +1,6 @@
 # Typing Game
 
-## Features:
+## Features :
 
 1. **Random Word Generation:**
 
